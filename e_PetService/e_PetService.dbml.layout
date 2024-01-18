@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="e_PetService">
+  <DataContextMoniker Name="/e_PetServiceDataContext" />
+  <nestedChildShapes>
+    <classShape Id="366f7fdd-ce63-4e45-ab1b-19009a9d9077" absoluteBounds="2.375, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/e_PetServiceDataContext/Cart" />
+      <nestedChildShapes>
+        <elementListCompartment Id="674733ec-bf35-4a5a-8e32-74fad5458992" absoluteBounds="2.39, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d5ca1b9b-22fd-4eea-a5e4-a74f6f9c93cb" absoluteBounds="1.375, 3.25, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/e_PetServiceDataContext/CheckOut" />
+      <nestedChildShapes>
+        <elementListCompartment Id="557595bc-8bba-474d-86d4-ec4ca3cb3266" absoluteBounds="1.3900000000000001, 3.71, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="13ba6019-9c44-4145-873c-eded0a7af8be" absoluteBounds="6.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/e_PetServiceDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5507f4c1-5f3d-4a08-9d47-da4acb8afaf8" absoluteBounds="6.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="25779867-4412-436c-a833-ef4dbe531218" absoluteBounds="6.625, 4.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/e_PetServiceDataContext/RegUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7317c197-f825-49db-899b-f5d3dab54c78" absoluteBounds="6.64, 4.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
